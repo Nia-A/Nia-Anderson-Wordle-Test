@@ -32,7 +32,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://drive.google.com/file/d/1SrKqB0_2_-zm7e5TfnbrhNKCfRC9Y1Rl/view?usp=sharing' title='Video Walkthrough of Wordle' width='' alt='Video Walkthrough of Wordle' />
+<img src='![ezgif com-gif-maker](https://user-images.githubusercontent.com/55842715/189029984-210e5909-cc58-4726-9a17-8a30a6f2cb2d.gif)
+' title='Video Walkthrough of Wordle' width='' alt='Video Walkthrough of Wordle' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...
