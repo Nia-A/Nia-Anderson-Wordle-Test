@@ -32,14 +32,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://drive.google.com/file/d/1SrKqB0_2_-zm7e5TfnbrhNKCfRC9Y1Rl/view?usp=sharing' title='Video Walkthrough of Wordle' width='' alt='Video Walkthrough of Wordle' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+Video to Gif
 
 ## Notes
 
